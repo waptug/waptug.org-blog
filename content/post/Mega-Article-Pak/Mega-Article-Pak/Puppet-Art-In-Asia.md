@@ -1,0 +1,21 @@
+﻿---
+title: "Puppet Art in Asia"
+date: 2023-06-24T23:31:47-08:00
+description: "TXT Tips for Web Success"
+featured_image: "/images/TXT.jpg"
+tags: ["TXT"]
+---
+
+Puppet Art in Asia
+
+Puppet Art is popular in many countries of Asia. Indonesian Puppet shadow play was known as Wayang Kulit which originated from Bali and Java. The term Wayang Kulit has been derived from the words “Warang” meaning ghost or shadow and “Kulit” meaning leather and when put together meant shadow from leather. They used two-dimensional figures, flat and round and were made with the hide of a buffalo. The sticks attached to these figures were planted in the banana stems which were placed beneath a cloth screen onto which the shadow of the puppet was casted. The right side of the stage was occupied by the good characters; where as the left side was occupied by the wrong doers. They are maneuvered by puppeteers know as “Dalang”. Puppet art was very exhausting at that time, the show used to go on for nine hours in the night with the puppeteer sitting cross-legged without a wink.  He was even expected to play Rebab, the two-stringed violin, with one hand and handle the Chempala or the strings of the puppet with another hand. The themes of these shows were the Javanese versions of the two hundred stories from Hindu epics Ramayana and Mahabharata which are referred to as Rama cycle and Pandawa cycle respectively. The puppet show involving three-dimensional puppets were known as Wayang Golek.
+
+Shadow puppetry took its full form in Tang Dynasty. That era was known as “The Age of 1000 Entertainments”. The two different kinds of puppetry are Cantonese and Pekingese. They differ in the production of the puppets and the way by which these puppets are being positioned with the help of rods, though the theme is same in both the techniques, that is, they revolve around stories with elements of adventurous fiction. Thick leather was used in the manufacturing of Cantonese puppets, so as to create a good shadow. The colors were used to represent different characters. A brave man had a red facial color where as an honest character had a black face. The rod was attached perpendicularly to the head of the puppet to make them less visible during the shadow performance.  The puppets were bigger than Pekingese puppets. On the other hand the Pekingese puppets were more petite and were made out of thin and translucent leather which made them more fragile. They were equally good for the shadow performance as they were colored very vividly. Thin rods were attached to the neck of the figure and weren’t visible during the performance. The Chinese puppeteers had a superstition that the puppets will come to life at night if the head was kept intact with the body. So the head was separated from the body and the body was stored in a box.  With respect to time, shadow puppetry started flourishing and reached its prime in the eleventh century.  
+
+Puppetry blossomed in the Indian villages and became an integral part of the folk culture. The puppets of India can be broadly classified as rod, thread, shadow and glove puppets which are made out of material like leather, wood, wool or cloth. Usually these puppets have a small body with an outstanding head with large eyes to add charm and personality. The villain has characteristic dark goggle eyes; the hero of the story has light eyes. Hands are made out of cloth bags stuffed with hands and most of the puppets have no legs which are substituted by a long robe. Exceptions are the ones who have to ride horses. The male puppets are made to wear turbans and chase the bad guy, fight and even fall dead and the female puppets have braided ponytails and hold their skirts in their hand while dancing. The head-puppeteer moves the puppets with the help of strings or rods and usually provides the voice and the female voices and songs are provided by his wife and kids. Denizens of the states Andhra Pradesh, Karnataka, 
+Kerala, Orissa and Rajasthan are well known to have mastered the art of puppetry. The drawback of puppetry is that it lacks facial expression. Exaggeration and distortion should be provided to achieve the best results. But the humor provided is incomparable which make this irreplaceable art unique in itself. 
+
+PPPPP
+
+Word Count 707
+

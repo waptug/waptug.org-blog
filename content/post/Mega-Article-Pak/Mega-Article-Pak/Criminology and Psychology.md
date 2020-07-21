@@ -1,0 +1,18 @@
+﻿---
+title: "How to Notice the Difference between Criminology and Psychology"
+date: 2020-02-12T15:36:31-08:00
+description: "criminology Tips for Web Success"
+featured_image: "/images/criminology.jpg"
+tags: ["criminology"]
+---
+
+How to Notice the Difference between Criminology and Psychology
+
+Psychology is the scientific study of an individual’s behaviors and thoughts as a basis for their personality and reactionary processes.  There are many reasons that a person may be studied by a psychologist.  Sometimes, the people who are being studied are simply trying to find ways to move past a particular feeling or longing that they cannot seem to let go of on their own.  By using psychology and investing in the help that they can receive from a psychologist, a person can be shown the different ways in which they approach situations and learn to react differently and redefine their approaches to problems or stressors.  In learning different habits as reaction processes, a person can learn to overcome different problems or feelings that they may have not been able to do at an earlier time, before being studied in the psychology field.  Psychologists tend to amass the information that they are able to gather from different subjects in order to learn about how the human mind operates in a general sense.  The information can be used also to notice the similarities and differences that exist between the individual mind and assessment of life.  
+
+While Criminology is also the study of an individual’s behavior and thought process, there is a specific outcome that is being sought by the criminologist.  The individual’s actions and thoughts are being investigated in order to learn how that individual is able to either overcome or succumb to the different elements of crime that exist within an environment.  There are many different thoughts surrounding how a criminal comes to be.  Some believe a criminal is born with the natural instinct to be deviant while others believe that the criminal element is nurtured within an individual by specific environmental aspects.  Criminologists are often in the pursuit of why and how a person is able to act out in a way that is either hurtful to themselves or others.  They use their knowledge in order to provide a safe and comforting environment for the general public.
+
+Psychological criminology is a specific branch of criminology that combines these two perspectives.  By using psychology as the only basis for the invention of the individual, criminologists are able to generate a profile of the perpetrator.  In looking at an individual’s actions or behavior patterns, psychological criminologists are able to see into the personality of the individual that is being tracked or studied.  This can help criminologists to analyze the pattern in order to cut the perpetrator off before they are able to perform their next criminal act, if the individual is still on the loose, or it can help the criminologist to understand how the crime came to be, in effect determining the motive for the crime.  However, psychological criminologists are typically not the ones who will help criminals to move beyond their behavioral or mental deviants.  Instead, they generally use their knowledge in order to help others understand what the criminal did and why, effectively helping to get answers out of the criminal that may be useful or necessary. 
+
+By analyzing the mind, both criminologists and psychologists are attempting to gain insight into the individual.  While in some instances this is being done for the benefit of the individual, in other instances this is being done in order to keep the public at large safe from the individual.  
+

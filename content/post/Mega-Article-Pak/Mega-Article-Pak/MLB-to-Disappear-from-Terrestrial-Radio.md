@@ -1,0 +1,22 @@
+﻿---
+title: "MLB to Disappear from Terrestrial Radio?"
+date: 2021-12-21T21:05:34-08:00
+description: "Satellite-Radio Tips for Web Success"
+featured_image: "/images/Satellite-Radio.jpg"
+tags: ["Satellite Radio"]
+---
+
+MLB to Disappear from Terrestrial Radio?
+
+The changes that took place in the way MLB games were broadcast on television made many think that the same will happen to radio soon enough. Today, local television stations only broadcast 23% of the MLB games. Also, 7 of the major league team games are only available on cable, an exclusivity factor that seems to work well for them. In an interview to WSJ, Edison Media Research's President Larry Rosin declared that "it is probably inevitable that baseball radio broadcasts will go to a 100% subscription model... It will happen because there's too much money in it not to do it." This is an interesting perspective for the two main digital satellite radio providers, XM Satellite Radio and Sirius. This potential development sounds excellent for XM especially, as they would   hold the exclusive rights to all major-league baseball games. Of course, that would be an important step forward for XM, as the MLB generates huge interest in the US, and it would mean that another building block has been added to the development of satellite radio. 
+
+MLB Radio and XM Radio
+
+MLB also has its own subscription paid online radio channel, and if the same thing happens to radio as it did to television they would definitely enjoy the situation. Since experts in the communication field consider that satellite radio is still in its infancy, the trend of moving broadcasts of such games to a subscription paid environment would take digital radio broadcasting to the next level of development. The earnings from XM Radio and MLB Radio are split between the 30 MLB teams, but they are divided equally. This means that the MLB team’s interests would be high and the economical and financial factors could speed up the process of making MLB games exclusive to satellite radio. The statistics we have today tell an interesting story: presently around 23%  of XM subscribers have signed up to receive the MLB transmission, so there is a lot of potential for growth. Terrestrial radio can already start to feel the danger of loosing MLB broadcasts to satellite radio as this revenue driven model is more attractive for the MLB teams. 
+Implications of such a transfer
+As with anything that reaches such a controversial topic, the opinions are shared among experts and the general public. Some people are convinced that this whole movement is nothing more than a bubble of soap. Baseball is mostly a TV favorite and although there is still a lot of interest in MLB radio broadcasts, most people will not feel the transfer to digital radio as a major change. Although radio was the initial growing medium for baseball, television is king today, and they say that the transfer from terrestrial radio to satellite radio is not something that will have a significant impact. Other opinions say that “MLB would loose more audience then it would gain from the exclusive fees”. Since the format of the terrestrial radio stations is more flexible it also allows them to broadcast more games than broadcast TV. The same people say that “the MLB would alienate a lot of local fans if they took baseball off AM radio”. For other people, there is another comparison to be made – that between the impact this would have on MLB and the impact it had on NFL, where a similar process has already started. The Sirius NFL broadcasts brought the company some new listeners, but the changes were not extreme and since NFL is more popular than MLB, some expect the same trend to be followed in MLBs case as well. Of course, there are voices that say this change would have a  significant impact on the way baseball is perceived. Since watching a game on TV can take away a few hours, many prefer to listen to the game on radio while they are doing something else. This is especially true during summer months, when many prefer to spend time in the yard or on the porch, not inside the room in front of a TV set. Of course, comparisons between the various major sport types in the US can be made from many perspectives, but most will agree that baseball is a game that can be followed on radio. For now, al the signs point at a transfer of broadcasts from terrestrial radio towards satellite radio, but this may change depending on the response companies and MLB receive from the public.   
+ 
+PPPPP
+
+(word count 745)
+

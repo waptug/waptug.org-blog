@@ -1,0 +1,16 @@
+﻿---
+title: "Exploring Criminology Lesson Plans"
+date: 2020-07-03T04:48:09-08:00
+description: "criminology Tips for Web Success"
+featured_image: "/images/criminology.jpg"
+tags: ["criminology"]
+---
+
+Exploring Criminology Lesson Plans
+
+In order for anyone to get a degree in Criminology, it is important that they pass a series of tests that have been standardized and mandated by the specific college which the student attends or in which the student partakes.  In order to ensure that men and women struggling to receive a criminology degree know the important basics of criminology and the relationship between crime and the public, it is important for the students to learn the same basic elements of the field.  For example, there are three widely held beliefs that define different causes of crime and the criminal.  These are known as the schools of thought for Criminology.  The lesson plan at any college would then likely, if not undoubtedly, include an exploration of these different schools of thought in order to examine how people viewed the field over time.  It is also important to note the differences that take place over time.  Many people may not know it, but more schools of thought opened up after it was revealed that there might be some kind of link between an individual and their chemical or genetic makeup.  Even hormones have been speculated to make a difference in this field.  
+
+By looking at the different schools of thought, an individual can understand how time and scientific advances lead to a more individual understanding of how crime is produced.  Many theories also arose in order to try to help explain what affected an individual and enticed them to commit a crime, including how society in general may have contributed to this calling.  Lombroso believed that a criminal is born with the particular defect, and that a man or woman that possessed the chemical and biological makeup of a criminal will have no choice but to succumb to that lifestyle.  Supporters believe that this is the nature of the criminal, and no amount of nurturing can change the outcome.  Initially, crime was expected, by individuals such as Cohen and Felson, to be a choice.  These people believe that criminals could choose to make a different decision but due to indifference or lack of knowledge, these individuals do not want to choose morality over the instant gratification that is rewarded by crime.  These different theories would test and be attributed to the different criminologists, all done while students are engaged in a criminology class, and preparing for the life that awaits them after graduation.
+
+A look at the criminal mind and the rational mind would also likely help individuals to establish their own personal beliefs about criminology and the reactions of society and deviance.  It is important to allow individuals to examine these things individually in order to encourage students taking part in a lesson plan for the material to be able to form their own opinion, without it being the suggestion of someone else.  In this way, it can be suggested that bias does not affect the lives of the individuals that are studying criminology, or influence the way in which they think about or relate to crime.
+

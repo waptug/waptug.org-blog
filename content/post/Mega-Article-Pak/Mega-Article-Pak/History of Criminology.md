@@ -1,0 +1,16 @@
+﻿---
+title: "Exploring the History of Criminology"
+date: 2023-04-14T13:34:27-08:00
+description: "criminology Tips for Web Success"
+featured_image: "/images/criminology.jpg"
+tags: ["criminology"]
+---
+
+Exploring the History of Criminology
+
+To many people interested in the roots and origin of Criminology, Lombroso is considered to be the father of the science, meaning that he explored it and examined it from many angles in order to expose it.  It was first used by a law professor in Italy, Raffaele Garofalo, who actually used the Italian term for the word, criminologia.  A French anthropologist also used the term around the same time as Garofalo, who referred to the term as criminology.  There are some who believe that it is possible that the study of bumps on an individual’s skull, referred to as Phrenology, is a better mark of representation when it comes to the scientific origins of the term.  Lombroso is considered to be the father of criminology because of the many advances that he attempted to make in the field.  If not for him, criminology might not be as developed as it is today. 
+
+Over time, many different theories were composed as to what caused criminal behavior.  These theories have their roots in biology, psychology, and society, to name a few.  Over time, by using these foundations for new theories, different schools of thought began to emerge.  Through these different schools of thought, the theoretical science of the criminal element could be rationalized.  Individuals often debate in order to attempt to define the reason for crime, so that it may then be eliminated by solving the problem of what causes crime.  By identifying and responding to the motivator for crime and deviant behavior, more effective measures of social control could be put into action.  Currently, we are able to take care of the symptoms of crime.  For example, we have police officers who catch criminals.  When found guilty by a panel of their own peers, the criminal will go to jail.  That takes the criminal out of society.  However, there are new criminals emerging every day.  We have learned to treat the symptoms, the individual criminals, but we have not yet been able to determine the instigating factor in these developments.  
+
+Throughout the history of criminology, this is the main goal of the science.  Since it is a theoretical science, all of the theories that correspond to the topic cannot immediately be proven as accurate or inaccurate, merely theoretical.  However, the continuous effort of individuals to idealize the workings of the individual and society have been transformed and re-defined since the beginning use of the term.  If the history of criminology shows us anything, it is that the human nature to establish right from wrong and the differences between individuals distinguishing the difference is virtually a timeless theme, at least since its birth.  By continuously researching and documenting the variables and changes within society and crime, people who are interested in criminology can line up the theories with the established facts.  After this is done, it is possible to sit down and analyze the coinciding factors in order to determine the best course of action when it comes to evolving society so as to limit crime and intolerance as much as possible.  
+
