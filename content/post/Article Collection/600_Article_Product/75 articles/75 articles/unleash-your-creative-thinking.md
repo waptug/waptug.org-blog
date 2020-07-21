@@ -1,0 +1,23 @@
+---
+title: "Creative Notions"
+date: 2021-02-10T06:43:56-08:00
+description: "75 articles Tips for Web Success"
+featured_image: "/images/75 articles.jpg"
+tags: ["75 articles"]
+---
+
+Creative Notions
+
+People seem to have the misconception that only a select few are able to unleash a steady flow of creative genius. That is not true at all. The fact is, creativity is very much like a muscle that needs to be exercised in order to consistently give out great results. If you don't practice harnessing creative thinking, this skill will very much atrophy into inexistence. But keep working and this skill will soon come to you in a snap.
+
+So how do you unleash your creative thinking? Well, the first thing is to become a human leech. No, we're not talking about just sucking the blood out of every living being available, we're saying that you should take in as much knowledge and learning you can find. Read everything available -- good and bad, and keep your mind open to the infinite possibilities of the universe. The more you know, the more you'll want to know, and the more your faculty of wonder will be exercised. Prepare to be amazed at little facts that add a bit of color into your life.  
+
+Focus on a creative activity everyday. Yes, it's an effort. Even doodling is a creative activity. Don't let anything hinder you. Mindlessness may be a creative activity, but for people who are just starting out to unleash a little bit of creative thinking in their lives, it is helpful and encouraging to have concrete evidence, that, "hey, what I'm doing is getting somewhere." So why don't you try it. Practice drawing for a couple of minutes each day. Bring out your old camera and start snapping photos like crazy. Keep a journal and make a point to write in it religiously. Another cool idea is to write by describing something with your five senses. Try to avoid vague adjectives like "marvelous," "amazing," and "delicious." Before you know it, you'll have built yourself a tiny portfolio, and you'll be amazed at the growth you've undertaken after amassing all those works of art. Who knows, you might actually take to liking those things you do everyday. Pretty soon those things will become a part of you and you'll be addicted to these creative exercises.
+
+Think out of the box -- or don't. Sometimes, constraints are actually a good thing. Limitations discipline you to work within your means. It enables you to be more resourceful. Creative freedom is great, but limitations enforce discipline.
+
+Try something new everyday and let your experiences broaden your perspective. Explore a new district in your neighborhood. Spend an afternoon in a museum to which you've never been before. Chat up someone on the bus. Open up to the people around you. As you thrust yourself out of your comfort zone more and more each day, your sense of adventure grows and so does your zest for life. Think about it. When was the last time you did something for the first time? If it's been a while, I tell you, you've been missing out on a whole lot of experiences that could've added to your growth, emotionally, mentally, physically, or spiritually. Why don't you try bungee jumping today? Not only will you learn, but you will also have plenty of stories to share, enabling you to practice your storytelling skills and making you the life of the party. 
+
+Embrace insanity. No, not to the point of practically admitting yourself into the mental ward. As John Russell once said, "Sanity calms, but madness is more interesting." Exactly! Every creative thought was once deemed insanity by other "normal" people at one time or another. Luckily, that didn't stop the creative geniuses from standing by them. The thing is, sanity or being normal confines people to think... well, normally. Withink limits. Creativity is essentially breaking through barriers. Yes, this includes the bizzarre and the downright strange. I'm not saying that you yourself should develop a creative personality. That might go haywire. An example of a creative personality would be George Washington, who often rode into battle naked, or James Joyce, who wrote "Dubliners" with beetle juice for an intense fear of ink, or Albert Einstein, who thought his cat was a spy sent by his rival (or in thinking creatively in this case, the term could probably be "archnemesis.") It's important that your creativity doesn't get you detached from the real world completely. 
+
+I hope this article has inspired you to start thinking beyond your "limits." If you follow these steps pretty soon you'll be living a life full of interesting adventures. Unleashing your creative thinking  will bring about a new zest for living life. 

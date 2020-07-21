@@ -1,0 +1,19 @@
+---
+title: "Craft Idea for a Group:  Make a Mural"
+date: 2020-03-15T04:11:53-08:00
+description: "75 articles Tips for Web Success"
+featured_image: "/images/75 articles.jpg"
+tags: ["75 articles"]
+---
+
+Craft Idea for a Group:  Make a Mural
+
+Most craft ideas are geared to individuals, whether kids or adults.  Sometimes you'd like to have a craft idea that works for a group of kids working together.  Making a mural together is an idea that works for a group.  By working together, you are creating something to decorate a shared area.  Individual crafts can be displayed, but one unique item is often more effective than a group of items that are almost identical.  In addition, sometimes kids' crafts, like it or not, just become clutter when they are taken home, and it isn't long before Mom throws it out.  This craft idea of making a group mural can be displayed for several weeks and will not become clutter in anyone's home.
+
+The basic materials for a kids' group mural is freezer paper.  Freezer paper is about 18 inches wide, and it is very tough.  One side is plastic coated.  That is the side that is designed to be placed against the food.  You will have better luck drawing on and gluing things onto the other side.  Class or group murals can feature a number of different design elements.  You can mix up some finger paint and let the children make hand prints (or even foot prints!) on the paper.  You can let them scour old cast-off magazines and color catalogs for pictures they like and let them cut the pictures out and glue them on.  They can add scribbles, designs, signatures, slogans, or pictures using markers, crayons, or gel pens.  They can attach stickers to the mural as well.  This craft idea is very flexible!
+
+For making the mural, choose a topic that relates to the group in some way.  If the group are girl scouts, for instance, and have been learning to camp, the mural can feature pictures of items related to camping.  If you've been learning about dinosaurs, you can use them as a theme.  If you want a really messy project that makes a cute mural for fall, mix up finger paint in fall colors.  The children can each make a tree by first laying their forearm in brown paint.  Then they lay their arm on the paper to make the trunk of the tree.  They should spread out their fingers so their arm print has five short branches at the top.  To make the leaves, the children make fingerprints all around the top of the tree using paints in other fall colors.  If you add a few drops of dishwashing detergent to finger paint when mixing it up, it will be easier to clean off the children's arms.  Do make sure they have old clothes or smocks for this craft idea.
+
+Little preschoolers will like making a mural with an animal theme.  You should probably find and cut out animal magazine pictures to start with, and then let the children choose the ones they like for gluing down.  Glue sticks are neat to use with small children.  They will paste some of the pictures upside down.  Expect it and do not scold them.  It is the process that is important in this craft idea.  The children can also use animal cookie cutters dipped in finger paint to stamp animals on the mural, too.  You may need to tape the paper to the table so it doesn't slide around while the children work.
+
+An elaborate form of this craft idea that adults often make is a quilt around a theme.  Each person in the group creates a quilt square to represent some aspect of what the group stands for.  These quilt squares can be colored with fabric pens or crafted of patchwork or applique.  Again, the craft idea is to build group solidarity and not to highlight one artist's skills over another.  When the quilt top is completed, it can be a group project to tie it or quilt it.  It can be hung in a special central location or given to an appreciated leader or member. 
