@@ -1,0 +1,65 @@
+---
+title: "How to process large article collections using POWER SHELL scripts"
+date: 2020-06-22T10:30:55-08:00
+description: "POWER SHELL scripts for Web Success"
+featured_image: "/images/Scripts.jpg"
+tags: ["POWER SHELL scripts"]
+---
+
+Goal to convert all of my Markdown files to work with my HUGO blog by adding front matter file header lines to it so my HUGO template will render it and index it properly.
+
+See the article in the directory with the SOURCE-FILE.md on the end of it.
+
+This is the article starting format for all the files.
+I need to convert the first line of each file into a yaml front matter format as seen in the SOLUTION-FILE.md
+
+They will be of 3 types of files.  .md  or .txt  or .doc 
+
+Rules: 
+
+Process .md files as followes
+
+Insert a line of 3 dashes as the first line of the file (unless they already exist in which case skip the file and do not process it)
+Take the title line of the file and convert it so it has this added:
+ 
+title: "title goes here in quotes"
+
+Add a date line:
+
+date: YYYY-MM-DDTHH:MM:SS-08:00     (the -08:00 is my time zone offset that stays the same for all articles)
+
+Your script needs to generate a random date and time between 2019-01-01T00:00:00 and 2025-12-31T23:59:59
+
+Duplicate time stamps are ok they just need to be random each time the script is run.
+
+The description block is next:
+
+description: "The name of the folder the file is in,  exactly as it is listed. Add ' Tips for Web Success'  to the end of it closed by a "
+
+The featured_image: section is next-
+
+featured_image: "/images/[name of folder exactly].jpg
+
+Next is the topic tags section which needs to be durived from the folder name that the article is in.
+
+tags: ["(Name of folder)"]  (Bonus if you can make the script strip out any - or _ and relace with a space great but not critical)
+
+And finally a closing line of 3 dashes.
+
+Then save the file with the orginal name.
+
+See file with SOLUTION-FILE.md on the end of it for the header result I want.
+
+*** If the file has an .txt file extention rename the file extention to be .md and process as above
+
+
+*** If the file has an .doc skip it 
+
+
+Then set the Power Shell script up so I can run it from the top of my folder tree and have it recursively apply the rules and conversions to all the files in the tree below where ever I run it.
+
+
+When your done please attach your script to this article below so I can copy it into a power shell commmand. 
+
+
+
