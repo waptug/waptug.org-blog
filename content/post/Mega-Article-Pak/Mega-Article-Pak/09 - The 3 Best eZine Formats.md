@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The 3 Best eZine Formats"
 date: 2020-03-08T09:52:17-08:00
 description: "Newsletter Publishing Tips for Web Success"

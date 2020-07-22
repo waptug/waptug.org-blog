@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Tracking Software: The Importance of Reading Product Descriptions"
 date: 2023-10-22T17:35:02-08:00
 description: "Tracking Software Tips for Web Success"

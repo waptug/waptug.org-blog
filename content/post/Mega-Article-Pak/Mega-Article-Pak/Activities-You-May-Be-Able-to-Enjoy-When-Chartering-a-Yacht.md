@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Activities You May Be Able to Enjoy When Chartering a Yacht"
 date: 2019-01-05T23:48:14-08:00
 description: "Private Yacht Charters TXT Tips for Web Success"

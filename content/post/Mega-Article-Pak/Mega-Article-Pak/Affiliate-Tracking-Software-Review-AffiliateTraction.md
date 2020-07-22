@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Tracking Software Review:  AffiliateTraction"
 date: 2024-01-11T02:27:09-08:00
 description: "Tracking Software Tips for Web Success"

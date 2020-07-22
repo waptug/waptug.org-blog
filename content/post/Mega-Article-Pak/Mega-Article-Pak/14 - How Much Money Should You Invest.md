@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How Much Money Should You Invest?"
 date: 2025-11-02T08:57:36-08:00
 description: "Text Files Tips for Web Success"

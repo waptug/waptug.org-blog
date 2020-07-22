@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Tracking Software: Your Payment Options"
 date: 2024-09-21T09:00:03-08:00
 description: "Tracking Software Tips for Web Success"

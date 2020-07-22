@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Abscessed Teeth"
 date: 2025-04-24T08:02:34-08:00
 description: "Toothache and Tooth Care Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing Tips"
 date: 2024-12-30T23:17:13-08:00
 description: "Affiliate Marketing On The Internet Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Protecting Your Commissions"
 date: 2023-11-03T22:53:10-08:00
 description: "Affiliate Success Tips for Web Success"

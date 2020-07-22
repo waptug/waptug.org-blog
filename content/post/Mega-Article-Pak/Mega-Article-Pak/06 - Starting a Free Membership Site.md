@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Starting a Free Membership Site"
 date: 2021-05-20T23:54:26-08:00
 description: "Membership Sites Tips for Web Success"

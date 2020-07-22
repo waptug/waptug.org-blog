@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Determine Your Risk Tolerance"
 date: 2021-02-28T02:41:34-08:00
 description: "Text Files Tips for Web Success"

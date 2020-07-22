@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 Qualities For Affiliate Marketing"
 date: 2021-08-23T11:05:03-08:00
 description: "Affiliate Marketing On The Internet Tips for Web Success"

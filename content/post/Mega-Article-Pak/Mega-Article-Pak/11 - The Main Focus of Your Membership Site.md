@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Main Focus of Your Membership Site"
 date: 2019-10-27T21:00:43-08:00
 description: "Membership Sites Tips for Web Success"

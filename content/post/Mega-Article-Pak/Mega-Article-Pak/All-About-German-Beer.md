@@ -1,4 +1,4 @@
-﻿---
+---
 title: "All About German Beer"
 date: 2021-03-31T11:37:10-08:00
 description: "Wine And Spirits Tips for Web Success"

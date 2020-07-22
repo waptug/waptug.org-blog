@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 Things You Must Have to Succeed in Affiliate Marketing"
 date: 2020-11-05T17:43:27-08:00
 description: "35 divers marketing articles Tips for Web Success"

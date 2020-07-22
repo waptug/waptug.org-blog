@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Building Your List with Paid eZine Advertising"
 date: 2025-08-09T01:12:45-08:00
 description: "List Building Tips for Web Success"

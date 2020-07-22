@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advertising: Self Promotion"
 date: 2025-06-20T23:25:57-08:00
 description: "TXT Tips for Web Success"

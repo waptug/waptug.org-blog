@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Video Game Environment of Your Own"
 date: 2023-05-19T09:13:11-08:00
 description: "TXT Tips for Web Success"

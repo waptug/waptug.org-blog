@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Academy Awards"
 date: 2025-05-15T22:03:24-08:00
 description: "TXT Tips for Web Success"

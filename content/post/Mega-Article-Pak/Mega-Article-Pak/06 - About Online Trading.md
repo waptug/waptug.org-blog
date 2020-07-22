@@ -1,4 +1,4 @@
-﻿---
+---
 title: "About Online Trading"
 date: 2022-12-12T04:56:22-08:00
 description: "Text Files Tips for Web Success"

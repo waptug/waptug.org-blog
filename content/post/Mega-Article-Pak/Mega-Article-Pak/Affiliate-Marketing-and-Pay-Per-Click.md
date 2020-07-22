@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing and Pay Per Click"
 date: 2025-05-20T21:53:40-08:00
 description: "TXT Tips for Web Success"

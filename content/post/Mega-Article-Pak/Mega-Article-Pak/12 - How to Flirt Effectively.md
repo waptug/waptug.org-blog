@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to Flirt Effectively"
 date: 2022-01-11T00:32:18-08:00
 description: "Dating Women Tips for Web Success"

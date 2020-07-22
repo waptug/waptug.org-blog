@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Activities For Radio Hobbyists"
 date: 2023-07-14T14:13:55-08:00
 description: "RC Hobbies Tips for Web Success"

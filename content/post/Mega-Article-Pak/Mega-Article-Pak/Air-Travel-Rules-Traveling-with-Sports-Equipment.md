@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Air Travel Rules:  Traveling with Sports Equipment"
 date: 2022-01-19T02:45:15-08:00
 description: "New Air Travel Rules Tips for Web Success"

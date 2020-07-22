@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advantages and disadvantages of the iPod video"
 date: 2023-10-21T03:49:41-08:00
 description: "Ipod-Video Tips for Web Success"

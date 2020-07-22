@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing: Why is it One of the Most Cost-Effective Ways to Advertise your Business"
 date: 2020-11-07T15:36:12-08:00
 description: "Articles-Marketing Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advertising on Television"
 date: 2023-07-31T08:02:03-08:00
 description: "TXT Tips for Web Success"

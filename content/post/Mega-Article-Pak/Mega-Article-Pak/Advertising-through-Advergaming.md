@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advergaming: Advertising through video games"
 date: 2021-06-08T09:34:21-08:00
 description: "TXT Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "'A Piece of Blarney Stone' 10 ways to empower your communication"
 date: 2021-02-14T23:30:48-08:00
 description: "40-ARTICLES Tips for Web Success"

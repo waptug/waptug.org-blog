@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Have Your Own Voice Through Creating Special Reports"
 date: 2019-09-16T18:32:46-08:00
 description: "Affiliate Success Tips for Web Success"

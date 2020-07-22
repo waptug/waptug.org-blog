@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Tracking Software:  How It Can Help You"
 date: 2024-07-15T19:03:52-08:00
 description: "Tracking Software Tips for Web Success"

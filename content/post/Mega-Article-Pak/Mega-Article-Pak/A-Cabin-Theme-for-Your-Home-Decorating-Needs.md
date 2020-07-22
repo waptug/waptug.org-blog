@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Cabin Theme for Your Home Decorating Needs"
 date: 2022-03-04T12:50:33-08:00
 description: "home decorating Tips for Web Success"

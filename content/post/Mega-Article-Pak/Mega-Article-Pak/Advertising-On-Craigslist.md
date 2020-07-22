@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advertising on Craigslist"
 date: 2020-02-22T02:39:56-08:00
 description: "Craigslist Tips for Web Success"

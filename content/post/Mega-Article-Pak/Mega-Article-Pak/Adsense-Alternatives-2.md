@@ -1,4 +1,4 @@
-﻿---
+---
 title: Adsense Alternatives Part 2
 date: 2020-06-07T01:58:08-04:00
 description: "Adsense Tips For Web Success"

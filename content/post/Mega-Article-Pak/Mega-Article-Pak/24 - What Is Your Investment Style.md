@@ -1,4 +1,4 @@
-﻿---
+---
 title: "What Is Your Investment Style?"
 date: 2020-06-14T06:19:36-08:00
 description: "Text Files Tips for Web Success"

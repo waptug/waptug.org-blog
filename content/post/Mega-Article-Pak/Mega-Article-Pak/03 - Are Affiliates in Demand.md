@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Are Affiliates in Demand?"
 date: 2020-05-23T22:35:40-08:00
 description: "Affiliate Success Tips for Web Success"

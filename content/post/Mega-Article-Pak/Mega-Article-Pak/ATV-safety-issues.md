@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ATV Safety Issues"
 date: 2020-11-23T02:59:04-08:00
 description: "ATV TXT Tips for Web Success"

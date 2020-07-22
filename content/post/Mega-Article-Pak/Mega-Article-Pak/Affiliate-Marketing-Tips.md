@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing Tips"
 date: 2019-04-20T13:01:16-08:00
 description: "TXT Tips for Web Success"

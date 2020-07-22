@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Abraham Lincoln"
 date: 2024-10-15T22:39:59-08:00
 description: "TXT Tips for Web Success"

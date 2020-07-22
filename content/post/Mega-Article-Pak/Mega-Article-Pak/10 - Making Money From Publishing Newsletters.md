@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Making Money From Publishing Newsletters"
 date: 2022-06-14T15:49:16-08:00
 description: "Niche Marketing Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Acne and its treatment"
 date: 2019-10-13T13:38:47-08:00
 description: "Skincare Tips for Web Success"

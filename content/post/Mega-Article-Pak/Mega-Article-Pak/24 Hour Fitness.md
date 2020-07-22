@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The 24 Hour Fitness Path"
 date: 2022-09-29T11:15:16-08:00
 description: "Fitness Tips for Web Success"

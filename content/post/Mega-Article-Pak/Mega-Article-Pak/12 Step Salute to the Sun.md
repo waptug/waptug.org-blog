@@ -1,4 +1,4 @@
-﻿---
+---
 title: "An All-Around Yoga Exercise: 12-Step Salute to the Sun"
 date: 2021-10-26T21:14:13-08:00
 description: "yoga Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Getting Your Feet Wet – Begin Investing"
 date: 2021-09-26T17:23:44-08:00
 description: "Text Files Tips for Web Success"

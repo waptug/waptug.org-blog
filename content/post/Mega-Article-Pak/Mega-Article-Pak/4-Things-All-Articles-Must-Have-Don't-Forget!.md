@@ -1,4 +1,4 @@
-﻿---
+---
 title: "4 Things ALL Articles Must Have - Don't Forget!"
 date: 2023-11-09T06:54:33-08:00
 description: "artmarketing Tips for Web Success"

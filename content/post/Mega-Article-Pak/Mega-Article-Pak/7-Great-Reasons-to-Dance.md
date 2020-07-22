@@ -1,4 +1,4 @@
-﻿---
+---
 title: "7 Great Reasons to Dance"
 date: 2021-09-21T20:59:44-08:00
 description: "TXT Tips for Web Success"

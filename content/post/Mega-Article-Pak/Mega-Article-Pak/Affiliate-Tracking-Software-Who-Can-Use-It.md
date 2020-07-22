@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Tracking Software:  Who Can Use It"
 date: 2023-12-27T00:50:15-08:00
 description: "Tracking Software Tips for Web Success"

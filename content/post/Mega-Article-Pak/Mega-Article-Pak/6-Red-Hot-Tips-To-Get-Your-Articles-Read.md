@@ -1,4 +1,4 @@
-﻿---
+---
 title: "6 Red Hot Tips To Get Your Articles Read"
 date: 2021-09-17T13:29:38-08:00
 description: "artmarketing Tips for Web Success"

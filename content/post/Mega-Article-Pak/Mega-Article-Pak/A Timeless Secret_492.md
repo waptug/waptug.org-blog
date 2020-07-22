@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Timeless Secret"
 date: 2024-08-23T05:52:53-08:00
 description: "Scotch Tips for Web Success"

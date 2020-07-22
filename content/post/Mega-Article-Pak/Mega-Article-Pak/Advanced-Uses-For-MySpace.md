@@ -1,4 +1,4 @@
-﻿---
+---
 date: 2020-09-05T12:00:00-00:00
 title: "Advanced Uses for MySpace"
 tags: ["MySpace"]

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Adsense and the Surfer"
 date: 2019-10-23T18:18:41-08:00
 description: "Adsense Tips for Web Success"

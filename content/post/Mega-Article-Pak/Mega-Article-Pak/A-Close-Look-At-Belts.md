@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Close Look At Belts"
 date: 2022-02-17T14:58:57-08:00
 description: "Martial Arts Tips for Web Success"

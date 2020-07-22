@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affirmative Action"
 date: 2023-08-07T22:24:50-08:00
 description: "txt Tips for Web Success"

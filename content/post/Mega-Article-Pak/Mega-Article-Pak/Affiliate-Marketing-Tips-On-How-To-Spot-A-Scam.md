@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing: Tips On How To Spot A Scam"
 date: 2024-09-21T01:49:44-08:00
 description: "TXT Tips for Web Success"

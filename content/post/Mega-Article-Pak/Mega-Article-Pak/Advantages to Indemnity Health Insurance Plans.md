@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advantages to Indemnity Health Insurance Plans"
 date: 2023-07-14T19:27:30-08:00
 description: "Text Tips for Web Success"

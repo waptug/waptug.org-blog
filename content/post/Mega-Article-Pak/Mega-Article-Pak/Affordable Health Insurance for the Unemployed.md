@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affordable Health Insurance for the Unemployed"
 date: 2019-02-06T00:37:52-08:00
 description: "Text Tips for Web Success"

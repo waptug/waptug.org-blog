@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Find Out As Much As You Can From Your Date"
 date: 2019-06-16T21:04:37-08:00
 description: "Dating Women Tips for Web Success"

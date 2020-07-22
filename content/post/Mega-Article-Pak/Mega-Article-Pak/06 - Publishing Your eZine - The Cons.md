@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Publishing Your eZine – the Cons"
 date: 2022-06-04T09:25:24-08:00
 description: "Newsletter Publishing Tips for Web Success"

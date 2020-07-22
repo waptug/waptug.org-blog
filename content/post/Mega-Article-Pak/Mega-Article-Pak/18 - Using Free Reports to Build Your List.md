@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Using Free Reports to Build Your List"
 date: 2020-02-16T21:39:08-08:00
 description: "List Building Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing Businesses VS Sole Ownership"
 date: 2025-08-26T14:27:08-08:00
 description: "TXT Tips for Web Success"

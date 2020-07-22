@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rebates – Reward or Rip Off?"
 date: 2025-08-19T04:52:18-08:00
 description: "Text Files Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Aboveground Pools:  Your Cleaning Options"
 date: 2024-01-18T01:51:59-08:00
 description: "Pool Accessories Tips for Web Success"

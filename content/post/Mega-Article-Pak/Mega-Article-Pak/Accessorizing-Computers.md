@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Accessorizing Computers"
 date: 2022-10-06T08:49:10-08:00
 description: "TXT Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "4 Ways To Get Your Opt In Subscribers To Trust You Quickly"
 date: 2019-01-18T07:33:38-08:00
 description: "OptInList Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ajello Candles"
 date: 2019-12-28T22:38:21-08:00
 description: "Candle Making txt Tips for Web Success"

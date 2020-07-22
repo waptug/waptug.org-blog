@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Adsense - Pros and Cons"
 date: 2023-09-12T05:47:57-08:00
 description: "Adsense Tips for Web Success"

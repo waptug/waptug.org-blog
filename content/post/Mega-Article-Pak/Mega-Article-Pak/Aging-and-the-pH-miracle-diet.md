@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Aging and the pH miracle diet"
 date: 2021-09-08T17:40:24-08:00
 description: "Text Tips for Web Success"

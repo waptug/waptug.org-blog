@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Adopting Anger Management Skills that Work"
 date: 2023-04-02T12:32:41-08:00
 description: "anger management Tips for Web Success"

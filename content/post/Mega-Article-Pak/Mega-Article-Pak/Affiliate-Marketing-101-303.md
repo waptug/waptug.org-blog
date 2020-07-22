@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing 101"
 date: 2025-10-12T04:41:42-08:00
 description: "Affiliate Marketing On The Internet Tips for Web Success"

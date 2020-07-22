@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Other Notable Common Affiliate Marketing Mistakes"
 date: 2024-12-18T04:18:08-08:00
 description: "Affiliate Success Tips for Web Success"

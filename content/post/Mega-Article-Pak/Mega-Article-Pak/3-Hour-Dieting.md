@@ -1,4 +1,4 @@
-﻿---
+---
 title: "3 Hour Dieting"
 date: 2024-04-11T10:38:13-08:00
 description: "TXT Tips for Web Success"

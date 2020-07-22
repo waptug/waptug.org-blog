@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing And Home Business"
 date: 2025-08-15T08:47:35-08:00
 description: "TXT Tips for Web Success"

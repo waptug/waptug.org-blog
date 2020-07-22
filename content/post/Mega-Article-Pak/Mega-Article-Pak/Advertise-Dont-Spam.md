@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advertise, Do not Spam"
 date: 2021-04-30T18:23:41-08:00
 description: "Text Tips for Web Success"

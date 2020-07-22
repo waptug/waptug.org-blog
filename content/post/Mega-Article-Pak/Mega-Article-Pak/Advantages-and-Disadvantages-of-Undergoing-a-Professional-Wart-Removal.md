@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advantages and Disadvantages of Undergoing a Professional Wart Removal"
 date: 2019-10-06T05:26:01-08:00
 description: "Wart Removal Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "9 Beach Vacation Ideas"
 date: 2022-07-21T18:52:42-08:00
 description: "Beach Vacations Tips for Web Success"

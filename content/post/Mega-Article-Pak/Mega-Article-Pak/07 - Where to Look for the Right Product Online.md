@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Where to Look for the Right Product Online"
 date: 2024-06-28T14:07:00-08:00
 description: "Affiliate Success Tips for Web Success"

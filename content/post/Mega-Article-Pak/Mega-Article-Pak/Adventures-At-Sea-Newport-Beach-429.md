@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Adventures At Sea Newport Beach"
 date: 2025-07-30T22:24:14-08:00
 description: "long articles Tips for Web Success"

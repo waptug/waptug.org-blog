@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing in a Nutshell"
 date: 2023-02-06T13:20:51-08:00
 description: "Affiliate Success Tips for Web Success"

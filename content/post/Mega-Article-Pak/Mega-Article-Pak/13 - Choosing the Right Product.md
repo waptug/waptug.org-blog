@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Choosing the Right Product"
 date: 2024-09-03T15:23:23-08:00
 description: "Affiliate Success Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing and Blogging"
 date: 2021-06-23T09:35:31-08:00
 description: "TXT Tips for Web Success"

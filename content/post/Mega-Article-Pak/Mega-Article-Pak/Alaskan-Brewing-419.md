@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Alaskan Brewing"
 date: 2025-07-12T22:29:30-08:00
 description: "Microbrews Tips for Web Success"

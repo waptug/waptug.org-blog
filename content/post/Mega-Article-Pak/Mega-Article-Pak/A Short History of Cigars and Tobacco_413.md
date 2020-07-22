@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Short History of Cigars and Tobacco"
 date: 2021-03-22T14:36:12-08:00
 description: "Cigars Tips for Web Success"

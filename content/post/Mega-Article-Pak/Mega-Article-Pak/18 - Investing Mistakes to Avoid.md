@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Investing Mistakes to Avoid"
 date: 2024-02-08T22:19:06-08:00
 description: "Text Files Tips for Web Success"

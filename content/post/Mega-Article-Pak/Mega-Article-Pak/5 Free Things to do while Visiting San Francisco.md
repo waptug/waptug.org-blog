@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 Free Things to do while Visiting San Francisco"
 date: 2021-08-08T15:44:30-08:00
 description: "SanFransisco Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Adsense is for Everyone"
 date: 2024-10-18T22:38:40-08:00
 description: "Adsense Tips for Web Success"

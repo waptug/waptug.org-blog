@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Telling Good Traffic from Bad"
 date: 2022-05-29T16:40:02-08:00
 description: "Affiliate Success Tips for Web Success"

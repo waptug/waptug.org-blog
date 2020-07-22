@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Age-Old Question: Is MLM a Viable Membership Model?"
 date: 2019-08-12T20:24:33-08:00
 description: "Membership Sites Tips for Web Success"

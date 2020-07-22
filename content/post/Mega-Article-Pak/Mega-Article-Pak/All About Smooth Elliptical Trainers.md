@@ -1,4 +1,4 @@
-﻿---
+---
 title: "All About Smooth Elliptical Trainers"
 date: 2019-07-20T06:09:30-08:00
 description: "elliptical trainers Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Setting Up your Affiliate Marketing System"
 date: 2021-02-20T01:37:13-08:00
 description: "Affiliate Success Tips for Web Success"

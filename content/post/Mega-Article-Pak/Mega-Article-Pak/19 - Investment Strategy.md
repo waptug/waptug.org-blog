@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Investment Strategy"
 date: 2023-11-22T04:20:45-08:00
 description: "Text Files Tips for Web Success"

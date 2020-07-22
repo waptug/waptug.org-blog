@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Credit card debt"
 date: 2022-09-13T20:26:41-08:00
 description: "Credit_Card_Debt Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Alienation of Assets"
 date: 2022-04-30T04:16:17-08:00
 description: "TXT Tips for Web Success"

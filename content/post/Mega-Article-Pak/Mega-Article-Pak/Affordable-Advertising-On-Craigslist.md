@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affordable Advertising on Craigslist"
 date: 2023-08-15T12:13:07-08:00
 description: "Craigslist Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "3 Reasons Why Adsense Is Essential For Content Sites"
 date: 2019-01-22T00:00:21-08:00
 description: "googleadsense Tips for Web Success"

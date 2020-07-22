@@ -1,4 +1,4 @@
-﻿---
+---
 title: "2005 Porsche Carrera GT"
 date: 2020-06-29T02:15:40-08:00
 description: "Porsche Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Different Types of Investments"
 date: 2021-04-02T00:24:33-08:00
 description: "Text Files Tips for Web Success"

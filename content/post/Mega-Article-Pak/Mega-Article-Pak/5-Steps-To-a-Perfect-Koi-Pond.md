@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 Steps To a Perfect Koi Pond"
 date: 2025-08-21T08:16:14-08:00
 description: "Koi txt Tips for Web Success"

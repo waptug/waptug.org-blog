@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ad Swap Magic"
 date: 2019-07-20T09:28:19-08:00
 description: "List Building Tips for Web Success"

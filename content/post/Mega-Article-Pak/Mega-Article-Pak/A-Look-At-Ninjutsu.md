@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Look At Ninjutsu"
 date: 2025-07-01T14:24:13-08:00
 description: "Martial Arts Tips for Web Success"

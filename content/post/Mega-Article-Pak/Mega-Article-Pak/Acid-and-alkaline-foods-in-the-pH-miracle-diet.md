@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Acid and alkaline foods in the pH miracle diet"
 date: 2020-02-23T19:04:14-08:00
 description: "Text Tips for Web Success"

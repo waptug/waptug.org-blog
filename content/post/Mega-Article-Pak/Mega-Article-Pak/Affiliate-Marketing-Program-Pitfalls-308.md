@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing Program Pitfalls"
 date: 2023-04-18T10:27:00-08:00
 description: "Affiliate Marketing On The Internet Tips for Web Success"

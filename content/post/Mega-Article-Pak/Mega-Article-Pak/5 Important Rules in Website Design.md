@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 Important Rules in Website Design"
 date: 2019-05-17T00:22:14-08:00
 description: "Web Design Tips for Web Success"

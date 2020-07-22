@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Long Term Investments for the Future"
 date: 2022-09-18T21:22:53-08:00
 description: "Text Files Tips for Web Success"

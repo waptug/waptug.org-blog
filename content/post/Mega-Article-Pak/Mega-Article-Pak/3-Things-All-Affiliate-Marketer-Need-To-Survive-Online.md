@@ -1,4 +1,4 @@
-﻿---
+---
 title: "3 Things All Affiliate Marketers Need To Survive Online"
 date: 2023-11-23T12:43:06-08:00
 description: "10 affiliate marketing Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Publishing Your eZine – the Pros"
 date: 2022-06-13T00:17:25-08:00
 description: "Newsletter Publishing Tips for Web Success"

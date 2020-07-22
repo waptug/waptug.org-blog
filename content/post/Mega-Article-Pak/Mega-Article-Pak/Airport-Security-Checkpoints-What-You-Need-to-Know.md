@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Airport Security Checkpoints: What You Need to Know"
 date: 2019-03-22T04:25:45-08:00
 description: "New Air Travel Rules Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Day In The Life Of An Affiliate Marketer"
 date: 2019-10-10T21:18:14-08:00
 description: "10 affiliate marketing Tips for Web Success"

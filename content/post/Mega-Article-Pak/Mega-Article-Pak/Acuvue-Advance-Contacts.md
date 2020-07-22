@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Acuvue Advance Contacts"
 date: 2025-07-28T14:05:55-08:00
 description: "Contact Lenses Tips for Web Success"

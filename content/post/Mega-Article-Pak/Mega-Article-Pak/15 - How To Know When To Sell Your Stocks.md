@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to Know When to Sell Your Stocks"
 date: 2021-01-27T07:33:31-08:00
 description: "Text Files Tips for Web Success"

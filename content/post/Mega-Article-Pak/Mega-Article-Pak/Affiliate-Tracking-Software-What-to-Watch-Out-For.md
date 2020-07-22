@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Tracking Software: What to Watch Out For"
 date: 2022-01-25T01:02:36-08:00
 description: "Tracking Software Tips for Web Success"

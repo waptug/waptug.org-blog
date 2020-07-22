@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Understanding Bonds"
 date: 2022-02-21T19:40:42-08:00
 description: "Text Files Tips for Web Success"

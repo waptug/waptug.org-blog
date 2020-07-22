@@ -1,4 +1,4 @@
-﻿---
+---
 title: "10 Benefits Of Bluetooth"
 date: 2022-07-07T13:28:16-08:00
 description: "Bluetooth Technology Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Building Your List with Give Away Ventures"
 date: 2024-02-28T04:14:58-08:00
 description: "List Building Tips for Web Success"

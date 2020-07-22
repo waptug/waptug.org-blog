@@ -1,4 +1,4 @@
-﻿---
+---
 title: "'Who's the Boss?' 10 ways to start taking control (time management, goal setting, record tracking)"
 date: 2024-11-22T18:57:07-08:00
 description: "40-ARTICLES Tips for Web Success"

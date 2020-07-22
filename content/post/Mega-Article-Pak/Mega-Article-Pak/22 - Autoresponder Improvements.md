@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Auto Responder Improvements"
 date: 2024-12-08T17:34:26-08:00
 description: "Auto Responders Tips for Web Success"

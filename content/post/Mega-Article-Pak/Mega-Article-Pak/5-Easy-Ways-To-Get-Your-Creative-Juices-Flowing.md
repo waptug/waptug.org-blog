@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 Easy Ways To Get Your Creative Juices Going"
 date: 2024-06-24T15:55:00-08:00
 description: "artmarketing Tips for Web Success"

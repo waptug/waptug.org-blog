@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Look At Ice Wine"
 date: 2025-07-28T23:00:04-08:00
 description: "Wine And Spirits Tips for Web Success"

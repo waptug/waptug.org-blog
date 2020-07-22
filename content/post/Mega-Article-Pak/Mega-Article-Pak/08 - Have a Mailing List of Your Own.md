@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Have a Mailing List of Your Own"
 date: 2019-12-24T10:04:00-08:00
 description: "Affiliate Success Tips for Web Success"

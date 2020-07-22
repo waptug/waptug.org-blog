@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing through Craigslist"
 date: 2020-01-15T23:47:56-08:00
 description: "Craigslist Tips for Web Success"

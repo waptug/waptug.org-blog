@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Patriotic Home Decorating Theme"
 date: 2023-12-08T08:15:46-08:00
 description: "home decorating Tips for Web Success"

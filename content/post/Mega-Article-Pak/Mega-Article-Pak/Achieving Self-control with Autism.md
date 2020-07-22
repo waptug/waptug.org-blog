@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Achieving Self-control with Autism"
 date: 2020-08-22T09:39:35-08:00
 description: "Text Tips for Web Success"

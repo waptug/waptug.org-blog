@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Your Attitude Counts"
 date: 2019-12-27T08:53:31-08:00
 description: "Dating Women Tips for Web Success"

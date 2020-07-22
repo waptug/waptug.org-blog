@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing Rules"
 date: 2021-12-17T05:54:30-08:00
 description: "TXT Tips for Web Success"

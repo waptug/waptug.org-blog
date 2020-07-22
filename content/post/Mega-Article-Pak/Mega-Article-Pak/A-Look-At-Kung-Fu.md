@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Look At Kung Fu"
 date: 2019-06-05T05:49:55-08:00
 description: "Martial Arts Tips for Web Success"

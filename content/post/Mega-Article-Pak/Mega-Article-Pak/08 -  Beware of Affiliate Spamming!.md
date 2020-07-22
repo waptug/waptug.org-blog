@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Beware of Affiliate Spamming!"
 date: 2022-10-06T09:58:33-08:00
 description: "Membership Sites Tips for Web Success"

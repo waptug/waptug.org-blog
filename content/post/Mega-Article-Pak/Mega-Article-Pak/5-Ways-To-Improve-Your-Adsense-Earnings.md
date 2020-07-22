@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 Ways To Improve Your Adsense Earnings"
 date: 2020-07-01T20:16:22-08:00
 description: "googleadsense Tips for Web Success"

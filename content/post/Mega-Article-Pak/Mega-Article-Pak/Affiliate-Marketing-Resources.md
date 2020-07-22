@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing Resources"
 date: 2025-06-30T20:04:51-08:00
 description: "TXT Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing In 3 Steps"
 date: 2022-07-15T02:50:37-08:00
 description: "Affiliate Marketing On The Internet Tips for Web Success"

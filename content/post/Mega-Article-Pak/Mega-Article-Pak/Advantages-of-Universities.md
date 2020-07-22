@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advantages of Universities"
 date: 2023-06-14T16:48:32-08:00
 description: "Education Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Going to Bookshops to Identify a Hot Market"
 date: 2019-08-08T05:30:33-08:00
 description: "Niche Marketing Tips for Web Success"

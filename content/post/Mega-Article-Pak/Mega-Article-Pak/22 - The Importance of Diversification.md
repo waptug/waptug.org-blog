@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Importance of Diversification"
 date: 2025-05-31T11:16:38-08:00
 description: "Text Files Tips for Web Success"

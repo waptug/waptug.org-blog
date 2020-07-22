@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Credit card rate"
 date: 2025-09-09T12:55:30-08:00
 description: "Credit_Cards Tips for Web Success"

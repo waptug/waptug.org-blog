@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketer Defined"
 date: 2022-06-04T15:09:39-08:00
 description: "Affiliate Success Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Determining Where You Will Invest"
 date: 2024-10-05T06:44:16-08:00
 description: "Text Files Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Low Budget Advertising"
 date: 2022-05-05T21:07:41-08:00
 description: "TXT Tips for Web Success"

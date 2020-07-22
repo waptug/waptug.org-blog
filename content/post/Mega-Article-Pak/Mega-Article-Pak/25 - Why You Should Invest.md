@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Why You Should Invest"
 date: 2025-05-02T04:22:21-08:00
 description: "Text Files Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "All About La Jolla"
 date: 2024-10-07T13:50:08-08:00
 description: "La Jolla California Tips for Web Success"

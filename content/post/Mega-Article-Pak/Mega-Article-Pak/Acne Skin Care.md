@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Acne skin care"
 date: 2023-06-02T20:59:57-08:00
 description: "Skincare Tips for Web Success"

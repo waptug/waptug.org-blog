@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 Things To Consider When Publishing A Newsletter"
 date: 2022-08-30T18:19:23-08:00
 description: "OptInList Tips for Web Success"

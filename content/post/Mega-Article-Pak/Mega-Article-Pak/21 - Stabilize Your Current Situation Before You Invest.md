@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stabilize Your Current Situation Before You Invest"
 date: 2023-11-15T00:14:55-08:00
 description: "Text Files Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Importance of an Affiliate Program to Membership Sites"
 date: 2022-09-30T21:17:38-08:00
 description: "Membership Sites Tips for Web Success"

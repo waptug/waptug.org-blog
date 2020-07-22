@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Alcohol And Exercise"
 date: 2021-09-02T20:40:54-08:00
 description: "Exercise Tips for Web Success"

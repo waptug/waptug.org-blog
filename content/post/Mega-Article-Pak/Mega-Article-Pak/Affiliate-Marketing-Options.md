@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing Options"
 date: 2024-09-27T22:39:24-08:00
 description: "TXT Tips for Web Success"

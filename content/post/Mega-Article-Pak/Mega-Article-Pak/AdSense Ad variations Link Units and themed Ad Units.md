@@ -1,4 +1,4 @@
-﻿---
+---
 title: "AdSense Ad variations: Link Units and themed Ad Units."
 date: 2025-12-07T12:49:19-08:00
 description: "AdsenseArticles Tips for Web Success"

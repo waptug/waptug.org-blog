@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Adopting An Older Golden Retriever"
 date: 2025-06-09T13:53:03-08:00
 description: "Golden-Retriever Tips for Web Success"

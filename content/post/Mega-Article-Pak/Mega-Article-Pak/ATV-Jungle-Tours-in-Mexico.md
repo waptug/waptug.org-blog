@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Touring the Mexican Jungle"
 date: 2022-03-28T17:57:40-08:00
 description: "Mexico Vacations Tips for Web Success"

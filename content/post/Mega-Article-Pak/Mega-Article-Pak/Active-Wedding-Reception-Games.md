@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Active Wedding Reception Games"
 date: 2020-03-20T18:11:15-08:00
 description: "Wedding Games & Activities Tips for Web Success"

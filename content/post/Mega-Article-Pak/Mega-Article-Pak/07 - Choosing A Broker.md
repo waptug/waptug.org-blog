@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Choosing a Broker"
 date: 2022-05-12T11:27:38-08:00
 description: "Text Files Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Manly Drink"
 date: 2021-10-19T07:57:30-08:00
 description: "Scotch Tips for Web Success"

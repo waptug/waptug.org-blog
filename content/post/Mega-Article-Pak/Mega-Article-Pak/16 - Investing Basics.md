@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Investing Basics – What Are Your Investment Goals"
 date: 2025-02-05T01:29:22-08:00
 description: "Text Files Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "All Natural Freebies abound in Seattle"
 date: 2024-08-15T18:28:00-08:00
 description: "Seattle Tips for Web Success"

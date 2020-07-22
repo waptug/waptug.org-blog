@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Budget – The Ultimate Financial Management Tool"
 date: 2021-10-14T08:46:21-08:00
 description: "Text Files Tips for Web Success"

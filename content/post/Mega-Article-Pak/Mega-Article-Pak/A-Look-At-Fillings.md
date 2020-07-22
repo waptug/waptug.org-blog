@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Look At Fillings"
 date: 2020-10-19T07:16:18-08:00
 description: "Toothache and Tooth Care Tips for Web Success"

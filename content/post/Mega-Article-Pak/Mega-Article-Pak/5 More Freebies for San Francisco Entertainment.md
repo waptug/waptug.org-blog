@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 More Freebies for San Francisco Entertainment"
 date: 2021-08-15T08:18:29-08:00
 description: "SanFransisco Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Bottle of Their Own"
 date: 2020-03-24T15:48:48-08:00
 description: "Scotch Tips for Web Success"

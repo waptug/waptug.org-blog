@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Tracking Software: What Is It"
 date: 2020-07-07T19:40:26-08:00
 description: "Tracking Software Tips for Web Success"

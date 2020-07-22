@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A College Degree is Nearly a Necessity"
 date: 2019-05-23T13:39:48-08:00
 description: "Education Tips for Web Success"

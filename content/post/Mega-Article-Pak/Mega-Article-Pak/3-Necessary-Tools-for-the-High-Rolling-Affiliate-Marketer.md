@@ -1,4 +1,4 @@
-﻿---
+---
 title: "3 Necessary Tools for the High Rolling Affiliate Marketer"
 date: 2020-12-24T06:13:10-08:00
 description: "35 divers marketing articles Tips for Web Success"

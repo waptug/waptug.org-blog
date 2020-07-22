@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ACQUIRE POWER THROUGH SELF DEVELOPMENT."
 date: 2021-10-15T22:21:31-08:00
 description: "Self-Help Tips for Web Success"

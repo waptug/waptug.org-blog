@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Tracking Software Review:  ShareResults"
 date: 2020-12-22T14:11:02-08:00
 description: "Tracking Software Tips for Web Success"

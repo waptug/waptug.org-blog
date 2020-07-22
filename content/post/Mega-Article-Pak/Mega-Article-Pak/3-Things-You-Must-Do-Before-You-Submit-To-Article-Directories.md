@@ -1,4 +1,4 @@
-﻿---
+---
 title: "3 Things You Must Do Before You Submit To Article Directories"
 date: 2022-08-11T06:21:45-08:00
 description: "artmarketing Tips for Web Success"

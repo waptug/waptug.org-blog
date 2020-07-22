@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Landing Page Success Tips"
 date: 2019-12-27T21:12:33-08:00
 description: "List Building Tips for Web Success"

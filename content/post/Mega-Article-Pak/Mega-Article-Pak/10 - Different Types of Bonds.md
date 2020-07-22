@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Different Types of Bonds"
 date: 2021-09-21T03:21:24-08:00
 description: "Text Files Tips for Web Success"

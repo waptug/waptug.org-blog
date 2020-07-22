@@ -1,4 +1,4 @@
-﻿---
+---
 title: "12 Years of Fine Scotch"
 date: 2024-04-27T14:03:51-08:00
 description: "Scotch Tips for Web Success"

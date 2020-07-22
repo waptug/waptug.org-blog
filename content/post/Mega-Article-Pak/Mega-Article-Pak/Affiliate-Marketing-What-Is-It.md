@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing: What Is It?"
 date: 2019-03-26T01:12:13-08:00
 description: "TXT Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "College credit card"
 date: 2022-09-09T04:12:20-08:00
 description: "Credit_Cards Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Achieving Safety With A Burglar Alarm"
 date: 2019-07-29T13:34:38-08:00
 description: "Home Security Tips for Web Success"

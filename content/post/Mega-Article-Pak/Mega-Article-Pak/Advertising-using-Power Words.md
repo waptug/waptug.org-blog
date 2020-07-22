@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advertising using Power Words"
 date: 2024-04-30T06:53:31-08:00
 description: "TXT Tips for Web Success"

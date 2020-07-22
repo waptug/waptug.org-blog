@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Deciding on Your Membership Model"
 date: 2020-10-02T14:20:12-08:00
 description: "Membership Sites Tips for Web Success"

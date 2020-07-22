@@ -1,4 +1,4 @@
-﻿---
+---
 title: "AdSense tips that you might have missed out on"
 date: 2023-05-07T03:49:26-08:00
 description: "AdsenseArticles Tips for Web Success"

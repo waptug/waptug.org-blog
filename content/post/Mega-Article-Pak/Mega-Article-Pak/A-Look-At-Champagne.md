@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Look At Champagne"
 date: 2020-06-28T13:33:19-08:00
 description: "Wine And Spirits Tips for Web Success"

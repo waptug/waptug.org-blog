@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Tracking Software:  Common Product Features and Services"
 date: 2019-09-28T19:55:31-08:00
 description: "Tracking Software Tips for Web Success"

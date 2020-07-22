@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Look At Cat Breeds"
 date: 2024-07-09T22:22:18-08:00
 description: "Cats Tips for Web Success"

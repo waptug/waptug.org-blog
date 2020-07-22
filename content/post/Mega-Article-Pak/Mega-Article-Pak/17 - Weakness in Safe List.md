@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Weakness in Safe List"
 date: 2024-02-12T20:27:33-08:00
 description: "List Building Tips for Web Success"

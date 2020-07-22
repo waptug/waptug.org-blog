@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Making Money From Content Rich Sites"
 date: 2020-08-30T01:52:38-08:00
 description: "Niche Marketing Tips for Web Success"

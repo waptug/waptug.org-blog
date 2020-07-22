@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Making Back-End & Residual Commissions"
 date: 2020-09-24T13:15:30-08:00
 description: "Affiliate Success Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Look At Champagne Racks"
 date: 2023-06-14T00:21:16-08:00
 description: "Wine And Spirits Tips for Web Success"

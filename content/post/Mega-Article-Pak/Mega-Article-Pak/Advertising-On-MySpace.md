@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advertising on MySpace"
 date: 2022-10-18T16:21:38-08:00
 description: "Myspace Tips for Web Success"

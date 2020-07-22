@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing: Staying Away From Scams"
 date: 2023-05-19T12:15:55-08:00
 description: "TXT Tips for Web Success"

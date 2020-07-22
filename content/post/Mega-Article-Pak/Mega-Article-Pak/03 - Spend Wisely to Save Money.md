@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Spend Wisely to Save Money"
 date: 2025-04-14T12:27:20-08:00
 description: "Text Files Tips for Web Success"

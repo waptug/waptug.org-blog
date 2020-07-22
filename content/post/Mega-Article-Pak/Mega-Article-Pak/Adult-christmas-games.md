@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Adult Christmas Games"
 date: 2022-06-09T05:25:50-08:00
 description: "Holiday Games & Activities Tips for Web Success"

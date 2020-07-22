@@ -1,4 +1,4 @@
-﻿---
+---
 title: "7 Ways To Make Money Using Nothing More Than Your List"
 date: 2022-07-31T14:26:14-08:00
 description: "OptInList Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ad Tracking Success"
 date: 2023-12-29T03:34:02-08:00
 description: "Affiliate Marketing On The Internet Tips for Web Success"

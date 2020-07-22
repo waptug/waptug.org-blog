@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Avoiding Impulse Spending"
 date: 2021-05-31T07:11:15-08:00
 description: "Text Files Tips for Web Success"

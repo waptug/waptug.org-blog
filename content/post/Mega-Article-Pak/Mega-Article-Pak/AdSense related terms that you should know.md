@@ -1,4 +1,4 @@
-﻿---
+---
 title: "AdSense related terms that you should know"
 date: 2020-07-29T17:30:50-08:00
 description: "AdsenseArticles Tips for Web Success"

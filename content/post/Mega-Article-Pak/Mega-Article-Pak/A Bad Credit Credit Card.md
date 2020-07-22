@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bad credit credit card"
 date: 2020-05-01T09:39:55-08:00
 description: "Credit_Cards Tips for Web Success"

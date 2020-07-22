@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Adding Value To Your Home With A Pool"
 date: 2019-01-05T16:02:49-08:00
 description: "Swimming-Pools Tips for Web Success"

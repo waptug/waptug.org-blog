@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Why Publish an eZine?"
 date: 2020-11-19T13:18:50-08:00
 description: "Newsletter Publishing Tips for Web Success"

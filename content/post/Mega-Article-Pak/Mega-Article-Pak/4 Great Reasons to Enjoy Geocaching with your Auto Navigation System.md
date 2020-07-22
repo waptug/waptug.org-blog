@@ -1,4 +1,4 @@
-﻿---
+---
 title: "4 Great Reasons to Enjoy Geocaching with your Auto Navigation System"
 date: 2020-05-14T12:51:52-08:00
 description: "Auto Navigation Systems txt Tips for Web Success"

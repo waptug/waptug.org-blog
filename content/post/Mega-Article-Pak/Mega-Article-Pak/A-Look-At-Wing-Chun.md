@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Look At Wing Chun"
 date: 2021-12-18T21:44:37-08:00
 description: "Martial Arts Tips for Web Success"

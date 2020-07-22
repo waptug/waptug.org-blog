@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Identifying an Existing Hot Demand"
 date: 2024-08-19T23:47:35-08:00
 description: "Affiliate Success Tips for Web Success"

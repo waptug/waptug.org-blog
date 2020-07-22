@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pay off credit card debt"
 date: 2022-07-23T07:00:08-08:00
 description: "Credit_Card_Debt Tips for Web Success"

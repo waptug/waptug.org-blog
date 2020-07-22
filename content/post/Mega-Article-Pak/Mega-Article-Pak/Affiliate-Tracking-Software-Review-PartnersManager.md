@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Tracking Software Review:  PartnersManager"
 date: 2024-01-29T01:03:59-08:00
 description: "Tracking Software Tips for Web Success"

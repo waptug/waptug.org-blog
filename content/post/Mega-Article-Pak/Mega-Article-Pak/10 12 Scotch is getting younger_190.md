@@ -1,4 +1,4 @@
-﻿---
+---
 title: "10-12: Scotch is Getting Younger."
 date: 2019-05-18T18:12:11-08:00
 description: "Scotch Tips for Web Success"

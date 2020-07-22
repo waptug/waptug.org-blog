@@ -1,4 +1,4 @@
-﻿---
+---
 title: "After Your Boat Purchase"
 date: 2025-07-13T05:10:19-08:00
 description: "Buying A Boat Tips for Web Success"

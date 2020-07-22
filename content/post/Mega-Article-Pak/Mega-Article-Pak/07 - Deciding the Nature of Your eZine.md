@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Deciding the Nature of Your eZine"
 date: 2025-11-22T12:51:45-08:00
 description: "Newsletter Publishing Tips for Web Success"

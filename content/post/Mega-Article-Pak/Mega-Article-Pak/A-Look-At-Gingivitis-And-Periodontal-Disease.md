@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Look At Gingivitis And Periodontal Disease"
 date: 2023-11-09T18:21:43-08:00
 description: "Toothache and Tooth Care Tips for Web Success"

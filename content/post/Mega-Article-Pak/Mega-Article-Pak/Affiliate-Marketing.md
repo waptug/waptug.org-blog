@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Marketing"
 date: 2023-06-03T08:57:09-08:00
 description: "TXT Tips for Web Success"

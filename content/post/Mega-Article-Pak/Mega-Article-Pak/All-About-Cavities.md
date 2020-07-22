@@ -1,4 +1,4 @@
-﻿---
+---
 title: "All About Cavities"
 date: 2023-09-25T19:18:08-08:00
 description: "Toothache and Tooth Care Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "3 Quick And Easy Ways To Build A Profitable Opt In List"
 date: 2021-11-28T23:02:08-08:00
 description: "OptInList Tips for Web Success"

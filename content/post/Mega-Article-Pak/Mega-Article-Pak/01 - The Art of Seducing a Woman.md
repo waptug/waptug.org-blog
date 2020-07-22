@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Art of Seducing a Woman"
 date: 2019-06-16T17:10:24-08:00
 description: "Dating Women Tips for Web Success"

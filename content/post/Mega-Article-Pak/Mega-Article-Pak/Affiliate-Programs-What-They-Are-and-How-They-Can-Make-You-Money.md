@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Programs:  What They Are and How They Can Make You Money"
 date: 2025-01-23T13:01:57-08:00
 description: "Tracking Software Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "4th of July games"
 date: 2022-09-30T21:16:10-08:00
 description: "Holiday Games & Activities Tips for Web Success"

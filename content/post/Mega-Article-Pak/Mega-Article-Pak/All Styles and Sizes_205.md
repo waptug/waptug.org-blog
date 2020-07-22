@@ -1,4 +1,4 @@
-﻿---
+---
 title: "All Styles and Sizes:  The Basic Types of Cigars"
 date: 2024-03-08T08:09:53-08:00
 description: "Cigars Tips for Web Success"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "4 Tips for Lighting a Cigar"
 date: 2023-04-25T17:16:12-08:00
 description: "Cigars Tips for Web Success"

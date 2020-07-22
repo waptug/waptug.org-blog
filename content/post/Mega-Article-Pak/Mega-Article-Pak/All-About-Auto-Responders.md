@@ -1,4 +1,4 @@
-﻿---
+---
 title: "All About Auto Responders"
 date: 2019-06-03T11:05:34-08:00
 description: "Auto Responders Tips for Web Success"

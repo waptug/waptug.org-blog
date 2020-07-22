@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Different Types of Stock"
 date: 2023-06-05T23:52:24-08:00
 description: "Text Files Tips for Web Success"

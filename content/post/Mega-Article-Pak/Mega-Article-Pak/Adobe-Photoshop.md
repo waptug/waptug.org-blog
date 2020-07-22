@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Adobe Photoshop"
 date: 2020-06-28T07:50:42-08:00
 description: "TXT Tips for Web Success"

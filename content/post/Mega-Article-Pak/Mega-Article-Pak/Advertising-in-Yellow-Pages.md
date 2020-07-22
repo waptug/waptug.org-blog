@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advertising in Yellow Pages"
 date: 2021-06-13T02:16:47-08:00
 description: "TXT Tips for Web Success"

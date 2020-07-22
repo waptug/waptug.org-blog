@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advantages and Disadvantages of Purchasing Your Own Affiliate Tracking Software"
 date: 2022-07-02T03:12:04-08:00
 description: "Tracking Software Tips for Web Success"

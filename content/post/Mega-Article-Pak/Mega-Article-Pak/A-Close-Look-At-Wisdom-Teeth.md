@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Close Look At Wisdom Teeth"
 date: 2024-02-15T12:34:19-08:00
 description: "Toothache and Tooth Care Tips for Web Success"

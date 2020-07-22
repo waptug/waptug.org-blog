@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mailing List for Affiliate Marketers"
 date: 2021-08-09T23:26:22-08:00
 description: "Newsletter Publishing Tips for Web Success"

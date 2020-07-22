@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Troubled Time"
 date: 2021-10-10T19:50:35-08:00
 description: "txt Tips for Web Success"

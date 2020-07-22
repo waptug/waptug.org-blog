@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Different Types of Membership Sites"
 date: 2023-10-13T15:15:39-08:00
 description: "Membership Sites Tips for Web Success"

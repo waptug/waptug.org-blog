@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advertising on Internet"
 date: 2021-09-27T02:58:26-08:00
 description: "TXT Tips for Web Success"

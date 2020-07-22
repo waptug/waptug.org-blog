@@ -1,4 +1,4 @@
-﻿---
+---
 title: "'Life With Woody' 10 inspirational quotes than can improve yourself"
 date: 2025-11-12T05:22:38-08:00
 description: "40-ARTICLES Tips for Web Success"

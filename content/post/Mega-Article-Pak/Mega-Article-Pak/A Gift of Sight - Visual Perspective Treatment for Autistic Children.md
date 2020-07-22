@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Gift of Sight: Visual Perception Treatment for Autistic Children"
 date: 2020-03-23T16:26:12-08:00
 description: "Text Tips for Web Success"

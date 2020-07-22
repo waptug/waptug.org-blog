@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Affiliate Tracking Software Review:  Affiliate Wiz"
 date: 2022-09-21T11:18:58-08:00
 description: "Tracking Software Tips for Web Success"

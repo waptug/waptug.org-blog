@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Starting a Paid Membership Site"
 date: 2024-01-25T16:55:58-08:00
 description: "Membership Sites Tips for Web Success"

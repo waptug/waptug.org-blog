@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Community College Education is a Good Start"
 date: 2024-08-20T17:16:05-08:00
 description: "Education Tips for Web Success"

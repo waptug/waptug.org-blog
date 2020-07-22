@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Advertising for Free"
 date: 2023-01-11T18:13:37-08:00
 description: "TXT Tips for Web Success"

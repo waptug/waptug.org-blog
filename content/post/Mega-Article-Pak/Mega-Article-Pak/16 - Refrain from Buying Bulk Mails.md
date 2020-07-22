@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Refrain from Buying Bulk Mails"
 date: 2019-03-05T18:50:30-08:00
 description: "List Building Tips for Web Success"
