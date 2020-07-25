@@ -1,5 +1,5 @@
 ---
-title: "==================================================="
+title: "How to Price Your eBook"
 date: 2019-11-01T09:08:31-08:00
 description: "8 ebook marketing articles Tips for Web Success"
 featured_image: "/images/8 ebook marketing articles.jpg"

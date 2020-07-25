@@ -1,5 +1,5 @@
 ---
-title: "==================================================="
+title: "How to Write an Ebook"
 date: 2020-09-29T05:36:04-08:00
 description: "8 ebook marketing articles Tips for Web Success"
 featured_image: "/images/8 ebook marketing articles.jpg"

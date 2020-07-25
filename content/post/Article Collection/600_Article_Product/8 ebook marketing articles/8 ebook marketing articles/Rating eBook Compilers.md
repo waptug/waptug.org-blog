@@ -1,5 +1,5 @@
 ---
-title: "==================================================="
+title: "Rating eBook Compilers"
 date: 2024-09-12T13:02:04-08:00
 description: "8 ebook marketing articles Tips for Web Success"
 featured_image: "/images/8 ebook marketing articles.jpg"

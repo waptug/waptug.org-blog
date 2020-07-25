@@ -1,5 +1,5 @@
 ---
-title: "==================================================="
+title: "Choosing an eBook Compiler"
 date: 2023-10-07T07:02:34-08:00
 description: "8 ebook marketing articles Tips for Web Success"
 featured_image: "/images/8 ebook marketing articles.jpg"

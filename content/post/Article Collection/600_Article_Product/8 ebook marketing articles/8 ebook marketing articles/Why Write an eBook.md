@@ -1,5 +1,5 @@
 ---
-title: "==================================================="
+title: "Why Write an eBook?"
 date: 2022-11-10T06:02:41-08:00
 description: "8 ebook marketing articles Tips for Web Success"
 featured_image: "/images/8 ebook marketing articles.jpg"

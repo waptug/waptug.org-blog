@@ -1,5 +1,5 @@
 ---
-title: "==================================================="
+title: "Ovecoming Writer's Block"
 date: 2023-12-22T06:39:36-08:00
 description: "8 ebook marketing articles Tips for Web Success"
 featured_image: "/images/8 ebook marketing articles.jpg"

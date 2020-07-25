@@ -1,5 +1,5 @@
 ---
-title: "==================================================="
+title: "Steps to Publishing Success"
 date: 2019-10-26T01:34:14-08:00
 description: "8 ebook marketing articles Tips for Web Success"
 featured_image: "/images/8 ebook marketing articles.jpg"

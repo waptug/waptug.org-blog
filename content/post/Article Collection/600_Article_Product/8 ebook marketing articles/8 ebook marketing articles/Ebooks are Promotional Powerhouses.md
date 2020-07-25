@@ -1,5 +1,5 @@
 ---
-title: "==================================================="
+title: "Ebooks are Promotional Powerhouses"
 date: 2022-10-19T00:49:44-08:00
 description: "8 ebook marketing articles Tips for Web Success"
 featured_image: "/images/8 ebook marketing articles.jpg"
