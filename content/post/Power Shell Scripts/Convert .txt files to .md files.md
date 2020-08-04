@@ -55,6 +55,30 @@ Feel free to hack on this script to add any changes you see necessary to fit you
 
 I would not modify this script to run on binary file formats like .doc or .jpg as it will mess up the file formats. 
 
+Some things to keep in mind...
+
+The format of the .txt file is important for the script to be successful.
+
+There can not be anything at the first line of the file other then the title of the article.
+
+Also avoid using double quotes or other charecters other then numbers or letters in the title. 
+
+Charecters other then a-z A-Z and 0-9 will cause issues with your script once it runs.
+
+Also be sure to seperate the title from the body of the article with at least 1 blank line so the script knows when the end of the title line is reached.
+
+You can restate the title and a by line in the body of your article if you wish. The script will remove your title line from the article to use in the front matter section so it will be displayed in the article header area in a larger font style.
+
+If you also wanted the article body to duplicate the article title then start out the article body section with the first line being the title you wanted to repeat in the article section. Most PLR articles won't have the title line duplicated and may have invalid charecters in the title line so scan them first to fix the title lines before you run your conversion script. THe ones to mainly watch out for are double quotes ' " ' and collons ' : ' 
+
+You can also use markdown formatting in your article body to create formatting of the text.
+
+The resulting .md files will not be formated properly and will cause errors when you run your hugo server command to edit your live site and when you run the hugo command to build your production site.
+
+
+Make sure the first line of your file is not blank or you will get a blank title and it will not show up in the web site.
+
+
 If you have suggestions please drop me a line at waptug 'at' gmail.com 
 
 ```powershell
@@ -104,3 +128,53 @@ if($children.Count -gt 0) {
 }
 
 ```
+
+Once you have completed this you will need to run the hugo command to build your site.
+
+Some times there may be a need to convert the file encoding from UTF16 to UTF8 if you were uploading this to a linux based server from a windows machine.
+
+Some commands that are helpful are found at this web site:
+
+http://murty4all.blogspot.com/2016/12/conversion-between-utf-16-utf-8-encoded.html
+
+You will need to install the utilitys mentioned to be able to convert dos files to linux files.
+
+and you will then need to read the man doc for dos2unix
+
+```
+sudo apt-get install dos2unix
+man dos2unix
+```
+
+You can run the conversion on individual files one at a time if you only have a few files to convert or you can run recursively over a larger collection of files using the command conbination like this:
+
+```
+RECURSIVE CONVERSION
+       In a Unix shell the find(1) and xargs(1) commands can be used to run
+       dos2unix recursively over all text files in a directory tree. For
+       instance to convert all .txt files in the directory tree under the
+       current directory type:
+
+           find . -name '*.txt' -print0 |xargs -0 dos2unix
+
+       The find(1) option "-print0" and corresponding xargs(1) option "-0" are
+       needed when there are files with spaces or quotes in the name.
+       Otherwise these options can be omitted. Another option is to use
+       find(1) with the "-exec" option:
+
+           find . -name '*.txt' -exec dos2unix {} \;
+
+       In a Windows Command Prompt the following command can be used:
+
+           for /R %G in (*.txt) do dos2unix "%G"
+
+       PowerShell users can use the following command in Windows PowerShell:
+
+           get-childitem -path . -filter '*.txt' -recurse | foreach-object {dos2unix $_.Fullname}
+
+```
+
+You would need to search for files with a .md extention and not .txt as in the above example if you were working on files for use in your hugo blog as post content.
+
+Be sure to visit our blog at http://waptug.org for more informative articles.
+
