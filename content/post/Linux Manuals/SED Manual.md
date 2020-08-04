@@ -4958,74 +4958,7 @@ options.
 * blank character class:                 Character Classes and Bracket Expressions.
                                                              (line 1993)
 * c (changeGNU 'sed'
-1 Introduction
-2 Running sed
-  2.1 Overview
-  2.2 Command-Line Options
-  2.3 Exit status
-3 'sed' scripts
-  3.1 'sed' script overview
-  3.2 'sed' commands summary
-  3.3 The 's' Command
-  3.4 Often-Used Commands
-  3.5 Less Frequently-Used Commands
-  3.6 Commands for 'sed' gurus
-  3.7 Commands Specific to GNU 'sed'
-  3.8 Multiple commands syntax
-    3.8.1 Commands Requiring a newline
-4 Addresses: selecting lines
-  4.1 Addresses overview
-  4.2 Selecting lines by numbers
-  4.3 selecting lines by text matching
-  4.4 Range Addresses
-5 Regular Expressions: selecting text
-  5.1 Overview of regular expression in 'sed'
-  5.2 Basic (BRE) and extended (ERE) regular expression
-  5.3 Overview of basic regular expression syntax
-  5.4 Overview of extended regular expression syntax
-  5.5 Character Classes and Bracket Expressions
-  5.6 regular expression extensions
-  5.7 Back-references and Subexpressions
-  5.8 Escape Sequences - specifying special characters
-    5.8.1 Escaping Precedence
-  5.9 Multibyte characters and Locale Considerations
-    5.9.1 Invalid multibyte characters
-    5.9.2 Upper/Lower case conversion
-    5.9.3 Multibyte regexp character classes
-6 Advanced 'sed': cycles and buffers
-  6.1 How 'sed' Works
-  6.2 Hold and Pattern Buffers
-  6.3 Multiline techniques - using D,G,H,N,P to process multiple lines
-  6.4 Branching and Flow Control
-    6.4.1 Branching and Cycles
-    6.4.2 Branching example: joining lines
-7 Some Sample Scripts
-  7.1 Joining lines
-  7.2 Centering Lines
-  7.3 Increment a Number
-  7.4 Rename Files to Lower Case
-  7.5 Print 'bash' Environment
-  7.6 Reverse Characters of Lines
-  7.7 Text search across multiple lines
-  7.8 Line length adjustment
-  7.9 Reverse Lines of Files
-  7.10 Numbering Lines
-  7.11 Numbering Non-blank Lines
-  7.12 Counting Characters
-  7.13 Counting Words
-  7.14 Counting Lines
-  7.15 Printing the First Lines
-  7.16 Printing the Last Lines
-  7.17 Make Duplicate Lines Unique
-  7.18 Print Duplicated Lines of Input
-  7.19 Remove All Duplicated Lines
-  7.20 Squeezing Blank Lines
-8 GNU 'sed''s Limitations and Non-limitations
-9 Other Resources for Learning About 'sed'
-10 Reporting Bugs
-Appendix A GNU Free Documentation License
-Concept Index
-Command and Option Index
+
 GNU 'sed'
 *********
 
@@ -9997,4 +9930,3 @@ Command and Option Index
                                                              (line 2027)
 * y (transliterate) command:             Other Commands.     (line  837)
 * z (Zap) command:                       Extended Commands.  (line 1225)
-
