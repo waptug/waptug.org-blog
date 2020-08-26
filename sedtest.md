@@ -11,3 +11,6 @@ of editors."
 featured_image: "/images/linux-manuals.jpg"
 tags: ["Linux Manuals"]
 ---
+
+1new-text
+
